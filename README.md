@@ -1,2 +1,2 @@
-# Trains77's Bad Resource Pack
-This is a highly modified version of my personal resource pack to only contain things only things that I have made, as you might notice, that isn't a whole lot
+# Trains77's Bottled Axolotls
+This is a resource pack that makes axolots be put in bottles instead of buckets, it also will display the proper bottled axolotl if you have optifine installed
