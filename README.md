@@ -1,2 +1,2 @@
 # Trains77's Resource Packs
-This Repo contains various resource packs that I have constructed. They aren't the best, but I like them and axolotls, and turtles and... what was I talking about again?
+This is the branch for my personal resource pack, I don't plan on including it in a release so, I am removing it from main
